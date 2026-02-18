@@ -217,9 +217,9 @@
       "businessType": "Clothing brand focused on premium black T-shirts.",
       "priceInfo": "Flat price of 200 MAD per item.",
       "deliveryInfo": "Nationwide delivery across Morocco.",
-      "mapLat": 30.9198,
-      "mapLng": -6.8926,
-      "mapZoom": 14
+      "mapLat": "30.9198",
+      "mapLng": "-6.8926",
+      "mapZoom": "14"
     },
     "contact": {
       "eyebrow": "Contact",
@@ -227,8 +227,8 @@
       "subtitle": "Reach out to order, ask about sizing, or talk collaborations.",
       "talkTitle": "Talk to us directly",
       "talkText": "For the fastest response, send us a WhatsApp message with your name, city and how many T-shirts you want.",
-      "phone": "+212 679 460 301",
-      "email": "black12tshirt@gmail.com",
+      "phone": "+212679243904",
+      "email": "store01hou@gmail.com",
       "location": "Ouarzazate, Morocco",
       "businessType": "Clothing / T-shirts",
       "priceInfo": "200 MAD per item · Nationwide delivery",
