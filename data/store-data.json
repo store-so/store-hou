@@ -198,9 +198,10 @@
   "floatingContact": {
     "enabled": true,
     "buttonType": "whatsapp",
-    "phoneNumber": "+212679460301",
+    "phoneNumber": "+212679243904",
     "position": "right",
-    "defaultMessage": "Hi Black T-Shirt, I'd like to order a T-shirt."
+    "defaultMessage": "Hi Black T-Shirt, I'd like to order a T-shirt.",
+    "instagramUrl": ""
   },
   "sizes": [
     {
